@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x" timestamp="1504554466854">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x" timestamp="1504554638159">
   <folder name="css">
     <file name="site_global.css" crc="3905737304"/>
     <file name="master_c-master.css" crc="533198513" ref="portfolio"/>
@@ -1973,7 +1973,7 @@
       <file name="about-me.css" crc="437183171" ref="phone>about-me"/>
     </folder>
     <file name="index.html" crc="185992167" seo="true" mt="1482332276261" redirect="true"/>
-    <file name="about-me.html" crc="161591772" seo="true" mt="1482333095845" redirect="true"/>
+    <file name="about-me.html" crc="91188935" seo="true" mt="1504554602975" redirect="true"/>
     <file name="portfolio.html" crc="111230960" seo="true" mt="1482332613862" redirect="true"/>
   </folder>
   <file name="index.html" crc="3842410289" seo="true" mt="1504429790394" redirect="true"/>
