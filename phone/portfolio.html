@@ -12,7 +12,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.scrolleffects.js", "portfolio.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "portfolio.css"], "outOfDate":[]};
 </script>
   
   <link rel="canonical" href="http://www.Kevin-Dale.co.uk/portfolio.html"/>
@@ -20,8 +20,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Portfolio</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=3905737304"/>
-  <link rel="stylesheet" type="text/css" href="css/master_c-master.css?crc=4106703912"/>
-  <link rel="stylesheet" type="text/css" href="css/portfolio.css?crc=3874286727" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_c-master.css?crc=363038749"/>
+  <link rel="stylesheet" type="text/css" href="css/portfolio.css?crc=74691127" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -90,6 +90,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
+    <div class="browser_width mse_pre_init" id="u35492-bw">
+     <div id="u35492"><!-- simple frame --></div>
+    </div>
+    <div class="mse_pre_init" id="u35493"><!-- animation -->
+     <iframe class="animationContainer an_invi" id="U35494_animation" src="../assets/dots_animating/dots_animating.html" scrolling="no"></iframe>
+    </div>
     <div class="clearfix mse_pre_init" id="u38721"><!-- group -->
      <div class="clearfix grpelem" id="pu38718"><!-- column -->
       <div class="colelem" id="u38718"><!-- simple frame --></div>
@@ -144,13 +150,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="clearfix colelem" id="u35581-4"><!-- content -->
      <p>Please Scroll to view my work</p>
-    </div>
-    <div class="browser_width colelem" id="u35492-bw">
-     <div class="clearfix" id="u35492"><!-- group -->
-      <div class="grpelem" id="u35493"><!-- animation -->
-       <iframe class="animationContainer an_invi" id="U35494_animation" src="../assets/dots_animating/dots_animating.html" scrolling="no"></iframe>
-      </div>
-     </div>
     </div>
     <a class="anchor_item colelem" id="point"></a>
     <div class="PamphletWidget clearfix colelem" id="pamphletu41511"><!-- none box -->
@@ -828,6 +827,8 @@ $('#slideshowu41042').registerPositionScrollEffect([{"speed":[null,0],"in":[-Inf
 $('#slideshowu41042').registerSlideshowScrollEffect([{"play":false,"in":[-Infinity,103.5]},{"play":900,"in":[103.5,Infinity]}]);/* scroll effect */
 $('#slideshowu41348').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
 $('#slideshowu41348').registerSlideshowScrollEffect([{"play":false,"in":[-Infinity,0]},{"play":614,"in":[0,Infinity]}]);/* scroll effect */
+$('#u35492-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,540]},{"speed":[null,0],"in":[540,Infinity]}]);/* scroll effect */
+$('#u35493').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 $('#u38721').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 $('#pamphletu38722').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,6.2]},{"speed":[0,0],"in":[6.2,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
