@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x" timestamp="1504552847840">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x" timestamp="1504553318948">
   <folder name="css">
     <file name="site_global.css" crc="3905737304"/>
     <file name="master_c-master.css" crc="533198513" ref="portfolio"/>
@@ -40,7 +40,7 @@
     <file name="jquery.museoverlay.js" crc="528673841" ref="phone>about-me:phone>portfolio:tablet>about-me:tablet>portfolio:about-me:portfolio"/>
     <file name="touchswipe.js" crc="432264157" ref="phone>about-me:phone>portfolio:tablet>about-me:tablet>portfolio:about-me:portfolio"/>
     <file name="musewpdisclosure.js" crc="3809204180" ref="phone>about-me"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>about-me:phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="241736563" ref="phone>index"/>
@@ -118,6 +118,16 @@
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="greendripping_phone_poster_.png" crc="316924064" ref="phone>about-me"/>
+    <file name="pasted-svg-66x66.svg" crc="313314489" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted-svg-32109x35.svg" crc="114124014" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
     <file name="iphone---ipad352x345.png" crc="214176451" seo="true" ref="phone>about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -131,16 +141,6 @@
     <file name="keyboard with print-u34909-fr.jpg" crc="87424702" ref="phone>about-me"/>
     <file name="mac support-u34910-fr.jpg" crc="527038716" ref="phone>about-me"/>
     <file name="packaging-u34911-fr.jpg" crc="3981975155" ref="phone>about-me"/>
-    <file name="pasted-svg-66x66.svg" crc="313314489" seo="true" ref="phone>about-me:tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-    </file>
-    <file name="pasted-svg-32109x35.svg" crc="114124014" seo="true" ref="phone>about-me:tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-    </file>
     <file name="pasted-svg-124084x152.svg" crc="524970278" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -182,12 +182,8 @@
     </file>
     <file name="graphicdesign-artworker.png" crc="67486290" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted-svg-23978x65.svg" crc="4059735516" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="beyonce pulse boots tod units.png" crc="54059250" seo="true" ref="phone>portfolio">
@@ -205,12 +201,6 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="beckham homme a site.png" crc="79625830" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -222,8 +212,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted-svg-373949x113.svg" crc="3998481883" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="katy perry killer queen_unit.png" crc="3861130070" seo="true" ref="phone>portfolio">
@@ -252,8 +240,6 @@
     </file>
     <file name="pasted-svg-446303x126.svg" crc="4097189404" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="lady gaga a site.png" crc="3784039700" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -265,18 +251,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted-svg-111473x75.svg" crc="3958165255" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -297,10 +271,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted-svg-340621x94.svg" crc="3791677233" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -363,27 +333,17 @@
     <file name="pasted svg 111473x75_poster_.png" crc="4266930420" ref="phone>portfolio"/>
     <file name="adidas-xmas-animation.gif" crc="457417437" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="beckham-xmas-animation.gif" crc="3911037828" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted-svg-188682x36.svg" crc="3937772451" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="playboy-xmas-animation.gif" crc="306850172" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="adidas-trio-ice-dive-folding-box.gif" crc="10930486" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="adidas xmas_sets.png" crc="60840159" seo="true" ref="phone>portfolio">
@@ -409,23 +369,17 @@
     </file>
     <file name="pasted-svg-201781x104.svg" crc="161984191" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="davidoff cool water mtv flyer218x265.png" crc="3983746762" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="davidoff cw mtv logo-01.png" crc="4007418472" seo="true" ref="phone>portfolio:tablet>portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="davidoff cw mtv logo-02.png" crc="4231801031" seo="true" ref="phone>portfolio:tablet>portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted-svg-180861x181.svg" crc="18845081" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="chupa chups.png" crc="235515832" seo="true" ref="phone>portfolio">
@@ -435,8 +389,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="chupa-playing-cards.gif" crc="3923162484" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="a4 summary sheets born originals.png" crc="407762851" seo="true" ref="phone>portfolio">
@@ -449,8 +401,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="carousel_ads.gif" crc="489326157" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="victory league pos material.png" crc="4117772930" ref="phone>portfolio">
@@ -467,39 +417,24 @@
     </file>
     <file name="carousel_ads_small.png" crc="67487012" ref="phone>portfolio:tablet>portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="adidas_skincare_bro.gif" crc="327009488" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="rimmel-pr-booklet.gif" crc="445542928" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted-svg-54659x121.svg" crc="4282219271" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="miracle-gel-brochure.gif" crc="282205324" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted-svg-19815x138.svg" crc="184325809" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
     </file>
     <file name="st-george-s-brochures-vic---goddard.gif" crc="12880994" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="pasted svg 19815x138_poster_.png" crc="11243037" ref="phone>portfolio"/>
@@ -507,8 +442,6 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="st-george-s-london-house-brochure.gif" crc="4286439786" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="adidas_skincare_bro_small.png" crc="4126279189" ref="phone>portfolio">
@@ -529,20 +462,16 @@
     <file name="apple computerforiphonedisplay372x373.png" crc="3971056298" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="adidas-ppt-intro_for-website.gif" crc="233730330" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="playboy-digital-fb-campaign.gif" crc="455610717" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="adidas-ppt-intro_for-website.gif" crc="233730330" ref="phone>portfolio:tablet>portfolio:portfolio" seo="true">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="crown_for-website.gif" crc="84266669" ref="phone>portfolio:tablet>portfolio:portfolio">
-      <caption webpage="portfolio" alt=""/>
+    <file name="playboy-digital-fb-campaign.gif" crc="455610717" ref="phone>portfolio:tablet>portfolio:portfolio" seo="true">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="asos-webpage.gif" crc="292635638" ref="phone>portfolio:tablet>portfolio:portfolio">
+    <file name="crown_for-website.gif" crc="84266669" ref="phone>portfolio:tablet>portfolio:portfolio" seo="true">
       <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="asos-webpage.gif" crc="292635638" ref="phone>portfolio:tablet>portfolio:portfolio" seo="true">
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="adidas-ppt-intro_for-website_master.jpg" crc="4011782357" ref="phone>portfolio">
@@ -2074,15 +2003,15 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_c-master.css" crc="4106703912" ref="phone>portfolio"/>
+      <file name="master_c-master.css" crc="3890748839" ref="phone>portfolio"/>
       <file name="master_b-master.css" crc="3889960711" ref="phone>about-me"/>
-      <file name="portfolio.css" crc="4247733913" ref="phone>portfolio"/>
+      <file name="portfolio.css" crc="309795147" ref="phone>portfolio"/>
       <file name="index.css" crc="4219515527" ref="phone>index"/>
-      <file name="about-me.css" crc="297995317" ref="phone>about-me"/>
+      <file name="about-me.css" crc="4258865448" ref="phone>about-me"/>
     </folder>
     <file name="index.html" crc="4004391861" seo="true" mt="1504551464769" redirect="true"/>
-    <file name="about-me.html" crc="425711674" seo="true" mt="1504552358280" redirect="true"/>
-    <file name="portfolio.html" crc="4162145546" seo="true" mt="1504552461889" redirect="true"/>
+    <file name="about-me.html" crc="385983915" seo="true" mt="1504553144007" redirect="true"/>
+    <file name="portfolio.html" crc="3866016439" seo="true" mt="1504553290068" redirect="true"/>
   </folder>
   <file name="index.html" crc="3842410289" seo="true" mt="1504429790394" redirect="true"/>
   <file name="about-me.html" crc="320372733" seo="true" mt="1482333774870" redirect="true"/>
