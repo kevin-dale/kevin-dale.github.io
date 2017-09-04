@@ -19,9 +19,6 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.Kevin-Dale.co.uk/phone/about-me.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.Kevin-Dale.co.uk/tablet/about-me.html"/>
     <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/small_k_logo_at_top_of_page.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/pasted-svg-35542x35.svg</image:loc>
     </image:image>
     <image:image>
@@ -56,6 +53,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/pasted-svg-60593x60.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/small_k_logo_at_top_of_page.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/flip00.png</image:loc>
@@ -319,18 +319,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/st-george-s-london-house-brochure.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/adidas-ppt-intro_for-website.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/playboy-digital-fb-campaign.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/crown_for-website.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/asos-webpage.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/lightbulb_off.jpg</image:loc>
