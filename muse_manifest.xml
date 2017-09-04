@@ -1,0 +1,2089 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x" timestamp="1504434261465">
+  <folder name="css">
+    <file name="site_global.css" crc="3905737304"/>
+    <file name="master_b-master.css" crc="90754762" ref="about-me"/>
+    <file name="master_c-master.css" crc="4279212534" ref="portfolio"/>
+    <file name="index.css" crc="4200473241" ref="index"/>
+    <file name="about-me.css" crc="4051657716" ref="about-me"/>
+    <file name="portfolio.css" crc="3886536835" ref="portfolio"/>
+  </folder>
+  <folder name="assets">
+    <folder name="dots_animating">
+      <folder name="edge_includes">
+        <file name="edge.5.0.1.min.js" crc="3758894637" mt="1429442446000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="122534436" mt="1429442446000"/>
+        <file name="Pasted.svg" crc="3770964507" mt="1429442446000"/>
+        <file name="Pasted2.svg" crc="203030503" mt="1429442446000"/>
+        <file name="Pasted3.svg" crc="145579255" mt="1429442446000"/>
+        <file name="Pasted4.svg" crc="182756850" mt="1429442446000"/>
+        <file name="Pasted5.svg" crc="4279817720" mt="1429442446000"/>
+        <file name="Pasted6.svg" crc="509328885" mt="1429442446000"/>
+        <file name="Pasted7.svg" crc="211527748" mt="1429442446000"/>
+      </folder>
+      <file name="transparent.png" crc="122534436" mt="1429442446000"/>
+      <file name="dots_animating_edge.js" crc="320350874" mt="1429442446000"/>
+      <file name="dots_animating.html" crc="4275301567" mt="1429442446000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about-me:phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
+    <file name="museutils.js" crc="17924269" ref="phone>index:phone>about-me:phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about-me:phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
+    <file name="museconfig.js" crc="144853533" ref="phone>index:phone>about-me:phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="phone>index:phone>about-me:phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:phone>about-me:phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
+    <file name="require.js" crc="3861931657" ref="phone>index:phone>about-me:phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
+    <file name="webpro.js" crc="416662029" ref="phone>about-me:phone>portfolio:tablet>about-me:tablet>portfolio:about-me:portfolio"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="phone>about-me:phone>portfolio:tablet>about-me:tablet>portfolio:about-me:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="phone>about-me:phone>portfolio:tablet>about-me:tablet>portfolio:about-me:portfolio"/>
+    <file name="touchswipe.js" crc="432264157" ref="phone>about-me:phone>portfolio:tablet>about-me:tablet>portfolio:about-me:portfolio"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="phone>about-me"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="phone>about-me:phone>portfolio:tablet>index:tablet>about-me:tablet>portfolio:index:about-me:portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="241736563" ref="phone>index"/>
+    <file name="k_logo_sliced-500.png" crc="4050945845" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced-rollover.png" crc="3954790238" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced-active.png" crc="3804476335" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-94556x22.svg" crc="177614330" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 94556x22_poster_.png" crc="259298907" ref="phone>index"/>
+    <file name="b-master-favicon.ico" crc="241736563" ref="phone>about-me"/>
+    <file name="small_k_logo_at_top_of_page.svg" crc="3784800773" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="small_k_logo_at_top_of_page_poster_.png" crc="406896107" ref="phone>about-me"/>
+    <file name="pasted-svg-35542x35.svg" crc="372906252" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted svg 35542x35_poster_.png" crc="3970642150" ref="phone>about-me"/>
+    <file name="pasted-svg-1211626x904.svg" crc="12615302" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted svg 1211626x904_poster_.png" crc="4028454034" ref="phone>about-me"/>
+    <file name="bluedripping_phone.svg" crc="317936499" seo="true" ref="phone>about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="bluedripping_phone_poster_.png" crc="311393944" ref="phone>about-me"/>
+    <file name="laptop.svg" crc="268793978" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="laptop_poster_.png" crc="384120270" ref="phone>about-me"/>
+    <file name="macbook-screen-saver-logo.gif" crc="67913851" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="laptop_glare.svg" crc="87839066" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="laptop_glare_poster_.png" crc="182199319" ref="phone>about-me"/>
+    <file name="bookskills-shelf.png" crc="4150083779" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="bookskills-left-books.png" crc="4251181720" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="bookskills-right-books.png" crc="254455357" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="greendripping_phone.svg" crc="3926425335" seo="true" ref="phone>about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="greendripping_phone_poster_.png" crc="316924064" ref="phone>about-me"/>
+    <file name="pasted-svg-66x66.svg" crc="313314489" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted-svg-32109x35.svg" crc="114124014" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="iphone---ipad352x345.png" crc="214176451" seo="true" ref="phone>about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="button-no-play.svg" crc="123564983" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="button-no-play_poster_u12174.png" crc="4290052177" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="button-play.svg" crc="72436864" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="button-play_poster_u12164.png" crc="3972456793" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="keyboard with print-u34925-fr.jpg" crc="3825986188" ref="phone>about-me"/>
+    <file name="mac support-u34926-fr.jpg" crc="4180383737" ref="phone>about-me"/>
+    <file name="packaging-u34924-fr.jpg" crc="4211270911" ref="phone>about-me"/>
+    <file name="keyboard with print-u34909-fr.jpg" crc="87424702" ref="phone>about-me"/>
+    <file name="mac support-u34910-fr.jpg" crc="527038716" ref="phone>about-me"/>
+    <file name="packaging-u34911-fr.jpg" crc="3981975155" ref="phone>about-me"/>
+    <file name="pasted-svg-124084x152.svg" crc="524970278" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted-svg-60593x60.svg" crc="344703216" seo="true" ref="phone>about-me:tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="phone hover-04.svg" crc="3897371089" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="phone hover-04_poster_u20973.png" crc="4190610606" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="phone active-04.svg" crc="103804176" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="phone active-04_poster_u20979.png" crc="229797989" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="linked in hover-01.svg" crc="257150570" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="linked in hover-01_poster_u20948.png" crc="36760761" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="linked in active-01.svg" crc="4157895823" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="linked in active-01_poster_u20967.png" crc="4026470122" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="mail hover-02.svg" crc="332357911" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="mail hover-02_poster_u20935.png" crc="301562854" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="mail active-02.svg" crc="3895418584" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="mail active-02_poster_u20961.png" crc="424962864" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="sms hover-03.svg" crc="4085184889" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="sms hover-03_poster_u20991.png" crc="105408586" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="sms active-03.svg" crc="207934130" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="sms active-03_poster_u20985.png" crc="3816648839" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="c-master-favicon.ico" crc="241736563" ref="phone>portfolio"/>
+    <file name="iphone header banner_1.png" crc="3887401267" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="graphicdesign-artworker.png" crc="67486290" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-23978x65.svg" crc="4059735516" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse boots tod units.png" crc="54059250" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>portfolio:tablet>about-me:tablet>portfolio:about-me:portfolio"/>
+    <file name="beyonce pulse a site.png" crc="4154509161" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse fsu.png" crc="187573425" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>portfolio:tablet>about-me:tablet>portfolio:about-me:portfolio"/>
+    <file name="pasted-svg-171444x56.svg" crc="374425829" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme a site.png" crc="79625830" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme boots tod a site.png" crc="170040526" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme sd display.png" crc="4101319167" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-373949x113.svg" crc="3998481883" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_unit.png" crc="3861130070" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen cutout.png" crc="254261935" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_cubes.png" crc="3795629768" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen.png" crc="3906970266" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham a-site_v11.png" crc="4037441077" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham ctu sd.png" crc="516325775" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham ctu_national.png" crc="4139933453" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham cubes.png" crc="64180325" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-446303x126.svg" crc="4097189404" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga a site.png" crc="3784039700" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga cubes.png" crc="89329240" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga harrods unit.png" crc="4272419714" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-111473x75.svg" crc="3958165255" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="climacool tray hotspot with sensations.png" crc="456906165" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="climacool fsdu with sensations.png" crc="3911465496" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas dump bin.png" crc="56066620" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas zidane photo wall.png" crc="3777607192" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-340621x94.svg" crc="3791677233" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rimmel phone box concept.png" crc="359829604" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rita ora window display.png" crc="4253498756" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rita together.png" crc="4274882978" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse boots tod units2.png" crc="4026201820" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse boots tod units3.png" crc="4026201820" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme a site2.png" crc="3876905372" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme boots tod a site2.png" crc="141634243" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_unit2.png" crc="4139332498" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_unit3.png" crc="4139332498" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham a-site_v112.png" crc="3966202890" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham a-site_v113.png" crc="3966202890" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga a site2.png" crc="439369088" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga a site3.png" crc="439369088" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="climacool tray hotspot with sensations2.png" crc="283834484" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rimmel phone box concept2.png" crc="4001788579" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas-xmas-animation.gif" crc="457417437" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham-xmas-animation.gif" crc="3911037828" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-188682x36.svg" crc="3937772451" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="playboy-xmas-animation.gif" crc="306850172" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas-trio-ice-dive-folding-box.gif" crc="10930486" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas xmas_sets.png" crc="60840159" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham xmas.png" crc="4070009030" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="playboy xmas.png" crc="12741157" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas trio ice dive folding box_small.png" crc="4249720098" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="victory league pos material_1.png" crc="160439307" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="victory league pos material_2.png" crc="133936431" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="victory league pos material_3.png" crc="380721566" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-201781x104.svg" crc="161984191" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cool water mtv flyer218x265.png" crc="3983746762" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cw mtv logo-01.png" crc="4007418472" seo="true" ref="phone>portfolio:tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cw mtv logo-02.png" crc="4231801031" seo="true" ref="phone>portfolio:tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-180861x181.svg" crc="18845081" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chupa chups.png" crc="235515832" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cc.png" crc="512787547" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chupa-playing-cards.gif" crc="3923162484" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4 summary sheets born originals.png" crc="407762851" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4 toe showcard born originals.png" crc="149291707" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cubes born originals.png" crc="158637098" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="carousel_ads.gif" crc="489326157" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="victory league pos material.png" crc="4117772930" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cool water mtv flyer.png" crc="155772401" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chupa chups2.png" crc="4021698619" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4 summary sheets born originals2.png" crc="4150640156" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="carousel_ads_small.png" crc="67487012" ref="phone>portfolio:tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas_skincare_bro.gif" crc="327009488" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rimmel-pr-booklet.gif" crc="445542928" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-54659x121.svg" crc="4282219271" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="miracle-gel-brochure.gif" crc="282205324" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted-svg-19815x138.svg" crc="184325809" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="st-george-s-brochures-vic---goddard.gif" crc="12880994" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="st geotge-s brochures.png" crc="211616366" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="st-george-s-london-house-brochure.gif" crc="4286439786" seo="true" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas_skincare_bro_small.png" crc="4126279189" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rimmel pr booklet_small.png" crc="4169794535" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="miracle gel brochure_small.png" crc="3798179562" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="st george-s brochures vic - goddard_small.png" crc="259202219" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="st george-s london house brochure_small.png" crc="3903954664" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="apple computerforiphonedisplay372x373.png" crc="3971056298" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas-ppt-intro_for-website.gif" crc="233730330" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="playboy-digital-fb-campaign.gif" crc="455610717" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="crown_for-website.gif" crc="84266669" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="asos-webpage.gif" crc="292635638" ref="phone>portfolio:tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas-ppt-intro_for-website_master.jpg" crc="4011782357" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="playboy digital fb campaign.png" crc="199153524" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="crown_for website_master.jpg" crc="4250936699" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="asos webpage_master.png" crc="506196296" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="phone_bg_white_100px.jpg" crc="13881678" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="phone_bg_blue_100px.jpg" crc="3839709159" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="phone_bg_green_100px.jpg" crc="3835578164" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iphone header banner_2.png" crc="120894250" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iphone header banner_3.png" crc="4058113891" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iphone header banner_4.png" crc="30520195" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iphone header banner_5.png" crc="202138517" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iphone header banner_6.png" crc="307861655" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="iphone header banner_7.png" crc="473277082" seo="true" ref="phone>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="opening-page-favicon.ico" crc="241736563" ref="tablet>index"/>
+    <file name="k_logo_sliced_01.png" crc="3985351832" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_52.png" crc="175873560" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_82.png" crc="405484500" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_14.png" crc="420764819" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_16.png" crc="4250855371" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_76.png" crc="4085771622" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_47.jpg" crc="421383096" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_98.png" crc="4130009429" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_19.png" crc="358501846" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_50.png" crc="183791564" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_22.png" crc="26872401" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_03.png" crc="287576580" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_04.png" crc="175694468" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_73.png" crc="4245082688" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_93.png" crc="278603059" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_44.png" crc="25017681" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_96.png" crc="415168381" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_29.png" crc="63550364" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_89.png" crc="3772527943" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_10.png" crc="4111255420" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_70.png" crc="4180794211" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_31.png" crc="4036455163" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_12.png" crc="4016257518" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_23.png" crc="3927867712" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_64.jpg" crc="4130718414" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_25.jpg" crc="4130718414" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_46.png" crc="3875073589" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_08.png" crc="4098661003" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_79.png" crc="3921833188" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_99.png" crc="405908716" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_40.png" crc="3799186801" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_11.png" crc="246749588" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_51.png" crc="4026116340" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_81.png" crc="126365036" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_43.jpg" crc="4130718414" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_94.png" crc="233833326" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_05.png" crc="165785017" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_36.png" crc="31015382" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_18.png" crc="4209531320" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_58.jpg" crc="421383096" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_90.png" crc="406731821" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_21.png" crc="510787640" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_61.png" crc="4172392249" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_91.png" crc="4030163208" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_34.jpg" crc="4130718414" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_65.png" crc="4236045986" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_95.png" crc="3988614706" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_17.png" crc="4203719620" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_48.jpg" crc="421383096" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_20.png" crc="220814638" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_60.png" crc="361159543" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_71.png" crc="407584960" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_32.png" crc="4258822250" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_13.png" crc="534832949" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_54.png" crc="523482882" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_84.png" crc="4249625053" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_06.png" crc="294682207" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_57.jpg" crc="421383096" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_87.png" crc="4149633154" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_38.png" crc="418669983" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_09.png" crc="499642527" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_100.png" crc="4172219812" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_41.png" crc="85785829" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_02.png" crc="4253791805" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_72.png" crc="4226285540" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_63.png" crc="167041450" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_24.png" crc="3980305563" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_85.png" crc="4254460062" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_56.png" crc="4208653920" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_28.png" crc="4044698768" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_88.png" crc="4203797608" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_59.png" crc="3971559103" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_42.png" crc="19852967" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_92.png" crc="26913059" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_74.png" crc="327493540" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_55.png" crc="497800051" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_26.png" crc="9680478" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_67.png" crc="3866493390" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_97.png" crc="399727471" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_78.png" crc="4248371654" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_30.png" crc="249630778" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_62.png" crc="27237492" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_33.png" crc="485914678" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_45.png" crc="3833115783" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_75.jpg" crc="4130718414" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_86.png" crc="3802760632" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_27.png" crc="413211511" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_68.png" crc="4016795181" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_39.png" crc="3951111284" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_69.png" crc="387314480" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_53.jpg" crc="4130718414" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_83.png" crc="465037092" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_15.png" crc="70427360" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_35.png" crc="3973115975" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_66.png" crc="3962982572" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_07.png" crc="101930373" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_37.png" crc="4007069600" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_77.png" crc="33467559" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_49.png" crc="511389116" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced_80.png" crc="202388063" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced-rollover-333.png" crc="44417639" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k_logo_sliced-active-333.png" crc="264309974" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flip00.png" crc="3932327025" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flip01.png" crc="284779152" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flip02.png" crc="398695638" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flip03.png" crc="477061792" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flip04.png" crc="507730341" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flip05.png" crc="4262781114" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flip11.png" crc="3788114201" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipw00.png" crc="4169387403" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipw01.png" crc="4051687961" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipw03.png" crc="114726082" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipl00.png" crc="3759886164" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipl01.png" crc="3784893085" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipl03.png" crc="220563362" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipm00.png" crc="399737132" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipm01.png" crc="365871696" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipm03.png" crc="242996223" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipe00.png" crc="58123374" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipe01.png" crc="3964927110" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipe03.png" crc="399279688" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipo00.png" crc="4257332808" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipo01.png" crc="3798897703" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipo03.png" crc="3788321864" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipc00.png" crc="382543260" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipc01.png" crc="4181684059" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipc03.png" crc="4001356417" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="bluedripping.svg" crc="3845663999" ref="tablet>about-me:about-me"/>
+    <file name="bluedripping_poster_u44169.png" crc="4151938808" ref="tablet>about-me:about-me"/>
+    <file name="flipa00.png" crc="4095849903" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipa01.png" crc="4050128933" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipa03.png" crc="3916969958" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipt00.png" crc="4172635772" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipt01.png" crc="479609067" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipt03.png" crc="222775270" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipu00.png" crc="3903519487" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipu01.png" crc="433862713" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipu03.png" crc="18904855" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipb00.png" crc="120776386" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipb01.png" crc="23447488" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipb03.png" crc="21312120" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipblank00.png" crc="513163802" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipblank01.png" crc="4124067525" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipblank03.png" crc="3898860853" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="bluetubeofpaintpouring.png" crc="530829300" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="bg patten-01.svg" crc="4061277840" ref="tablet>about-me:about-me"/>
+    <file name="bg patten-01_poster_u44180.png" crc="4194615356" ref="tablet>about-me:about-me"/>
+    <file name="flips00.png" crc="23402700" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flips01.png" crc="357586894" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flips03.png" crc="3814557295" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipi00.png" crc="4206001449" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipi01.png" crc="438800702" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipi03.png" crc="3993208844" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipk00.png" crc="3779005220" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipk01.png" crc="452554156" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipk03.png" crc="232414512" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="greendripping.svg" crc="411844560" ref="tablet>about-me:about-me"/>
+    <file name="greendripping_poster_u44237.png" crc="164336451" ref="tablet>about-me:about-me"/>
+    <file name="flipr00.png" crc="465079614" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipr01.png" crc="3955164059" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipr03.png" crc="4006666068" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipp00.png" crc="3825633609" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipp01.png" crc="528930439" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipp03.png" crc="3796442000" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipx00.png" crc="4219037924" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipx01.png" crc="4067042468" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipx03.png" crc="4117628615" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipn00.png" crc="4096333667" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipn01.png" crc="10785764" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="flipn03.png" crc="3886744022" seo="true" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="iphone---ipad405x396.png" crc="304054913" seo="true" ref="tablet>about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="keyboard with print-u44290-fr.jpg" crc="204503079" ref="tablet>about-me"/>
+    <file name="mac support-u44291-fr.jpg" crc="4143854605" ref="tablet>about-me"/>
+    <file name="packaging-u44289-fr.jpg" crc="4183867679" ref="tablet>about-me"/>
+    <file name="keyboard with print-u44275-fr.jpg" crc="425978380" ref="tablet>about-me"/>
+    <file name="mac support-u44274-fr.jpg" crc="3818393886" ref="tablet>about-me"/>
+    <file name="packaging-u44276-fr.jpg" crc="3812574938" ref="tablet>about-me"/>
+    <file name="greentubeofpaintpouring.png" crc="4193825620" ref="tablet>about-me:about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="pasted svg 124084x152_poster_.png" crc="439986768" ref="tablet>about-me"/>
+    <file name="pasted svg 66x66_poster_.png" crc="329036683" ref="tablet>about-me"/>
+    <file name="pasted svg 32109x35_poster_.png" crc="3889450614" ref="tablet>about-me"/>
+    <file name="pasted svg 60593x60_poster_.png" crc="348668986" ref="tablet>about-me"/>
+    <file name="lightbulb_off.jpg" crc="4249586890" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lightbulb_on.jpg" crc="3874642685" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u52252-4.png" crc="12214603" ref="tablet>portfolio"/>
+    <file name="u52251-4.png" crc="12214603" ref="tablet>portfolio"/>
+    <file name="beyonce pulse boots tod units4.png" crc="3917877281" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse fsu2.png" crc="4228213931" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse a site2.png" crc="3854696499" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme a site3.png" crc="227587047" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme boots tod a site3.png" crc="4121814131" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme sd display2.png" crc="4184673557" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_unit4.png" crc="33811" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen cutout2.png" crc="498133982" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen2.png" crc="4118569468" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_cubes2.png" crc="2878179" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham a-site_v114.png" crc="4161890442" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham ctu sd2.png" crc="4274817875" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham ctu_national2.png" crc="4276629197" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham cubes2.png" crc="389159700" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga a site4.png" crc="3873951230" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga harrods unit2.png" crc="20072677" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga cubes2.png" crc="496970857" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted svg 111473x75_poster_.png" crc="440522654" ref="tablet>portfolio"/>
+    <file name="adidas zidane photo wall2.png" crc="3848786497" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas dump bin2.png" crc="3957984025" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="climacool fsdu with sensations2.png" crc="142201121" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="climacool tray hotspot with sensations3.png" crc="132393130" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rita ora window display2.png" crc="310075712" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rimmel phone box concept3.png" crc="17173536" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rita together2.png" crc="3944240958" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse boots tod units5.png" crc="4026201820" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme a site4.png" crc="3876905372" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_unit5.png" crc="4139332498" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham a-site_v115.png" crc="3966202890" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga a site5.png" crc="439369088" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="climacool tray hotspot with sensations4.png" crc="283834484" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rimmel phone box concept4.png" crc="4001788579" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_pos_normal-u33658-fr.png" crc="425070315" ref="tablet>portfolio"/>
+    <file name="polaroid_pos_active-u33658-a-fr.png" crc="3985507551" ref="tablet>portfolio"/>
+    <file name="pasted svg 188682x36_poster_.png" crc="4151150817" ref="tablet>portfolio"/>
+    <file name="adidas xmas animation master.png" crc="326279030" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham xmas animation master.png" crc="473879869" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="playboy xmas animation master.png" crc="3847147690" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas trio ice dive folding box.png" crc="3949679225" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_box icon_closed.png" crc="368900238" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_box icon.png" crc="512305730" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="victory league pos material2.png" crc="501482858" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cool water mtv flyer2.png" crc="509841153" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chupa chups3.png" crc="284406726" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cc2.png" crc="401502992" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4 toe showcard born originals2.png" crc="4222502640" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4 summary sheets born originals3.png" crc="4195936722" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cubes born originals2.png" crc="275026932" seo="true" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="victory league pos material3.png" crc="3922773309" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cool water mtv flyer3.png" crc="37200742" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chupa chups4.png" crc="4054274334" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4 summary sheets born originals4.png" crc="507061164" ref="tablet>portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_print-u33969-fr.png" crc="273969068" ref="tablet>portfolio"/>
+    <file name="polaroid_print_pouring-u33969-a-fr.png" crc="35120292" ref="tablet>portfolio"/>
+    <file name="pasted svg 54659x121_poster_.png" crc="3823863051" ref="tablet>portfolio"/>
+    <file name="st geotge-s brochures2.png" crc="4024693854" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas_skincare_bro_small-u43301-fr.png" crc="304656574" ref="tablet>portfolio:portfolio"/>
+    <file name="rimmel pr booklet_small-u43300-fr.png" crc="3794899978" ref="tablet>portfolio:portfolio"/>
+    <file name="miracle gel brochure_small-u43299-fr.png" crc="3913312495" ref="tablet>portfolio:portfolio"/>
+    <file name="st george-s brochures vic - goddard_small-u43298-fr.png" crc="4223358895" ref="tablet>portfolio:portfolio"/>
+    <file name="st george-s london house brochure_small-u43302-fr.png" crc="470252153" ref="tablet>portfolio:portfolio"/>
+    <file name="polaroid_book icon_closed.png" crc="212026124" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_book icon_open.png" crc="3808099508" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_web_world-u34287-fr.png" crc="4065755208" ref="tablet>portfolio"/>
+    <file name="polaroid_web_world_arrows-u34287-a-fr.png" crc="4012413109" ref="tablet>portfolio"/>
+    <file name="apple computerforiphonedisplay.png" crc="4241593774" seo="true" ref="tablet>portfolio:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas-ppt-intro_for-website_master-u43351-fr.jpg" crc="404075081" ref="tablet>portfolio"/>
+    <file name="playboy digital fb campaign-u43350-fr.png" crc="4009070271" ref="tablet>portfolio"/>
+    <file name="crown_for website_master-u43349-fr.jpg" crc="4277369917" ref="tablet>portfolio"/>
+    <file name="asos webpage_master-u43348-fr.png" crc="3980872711" ref="tablet>portfolio"/>
+    <file name="iphone---ipad.png" crc="3831278409" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="keyboard with print-u12342-fr.jpg" crc="300871758" ref="about-me"/>
+    <file name="mac support-u12373-fr.jpg" crc="4265153419" ref="about-me"/>
+    <file name="packaging-u12375-fr.jpg" crc="311607213" ref="about-me"/>
+    <file name="keyboard with print.jpg" crc="3806740155" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="mac support.jpg" crc="406736020" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="packaging.jpg" crc="4200638019" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u52029-4.png" crc="3774722104" ref="portfolio"/>
+    <file name="u52127-4.png" crc="3774722104" ref="portfolio"/>
+    <file name="beyonce pulse a site3.png" crc="3848102479" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse fsu3.png" crc="501635193" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse boots tod units6.png" crc="265172539" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme boots tod a site4.png" crc="427645745" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme sd display3.png" crc="4017070687" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme a site5.png" crc="455945293" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_unit6.png" crc="4006570781" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen cutout3.png" crc="498133982" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen3.png" crc="4215191204" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_cubes3.png" crc="4101922838" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham a-site_v116.png" crc="3936639095" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham ctu_national3.png" crc="4082286037" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham ctu sd3.png" crc="4039604188" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham cubes3.png" crc="3819117429" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga harrods unit3.png" crc="4232251404" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga a site6.png" crc="72374349" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga cubes3.png" crc="3986748959" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas zidane photo wall3.png" crc="4022856130" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="climacool fsdu with sensations3.png" crc="4071040327" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="climacool tray hotspot with sensations5.png" crc="424733443" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas dump bin3.png" crc="78726101" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rita3.png" crc="82077708" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rita ora window display3.png" crc="187141199" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rimmel phone box concept5.png" crc="4260875124" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rita1.png" crc="3886597829" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rita2.png" crc="72142231" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beyonce pulse boots tod units7.png" crc="4059042582" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham homme a site6.png" crc="3876905372" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_unit7.png" crc="3904786670" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="katy perry killer queen_unit8.png" crc="3904786670" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="beckham a-site_v117.png" crc="3799910730" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="lady gaga a site7.png" crc="439369088" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="climacool tray hotspot with sensations6.png" crc="283834484" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rimmel phone box concept6.png" crc="4001788579" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_pos_normal.png" crc="4137791765" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_pos_active.png" crc="4111757375" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="victory league pos material4.png" crc="4069294617" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff-cw-mtv-logo-02.svg" crc="503241898" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cw mtv logo-02_poster_.png" crc="4070211971" ref="portfolio"/>
+    <file name="davidoff-cw-mtv-logo-01.svg" crc="4217565700" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cw mtv logo-01_poster_.png" crc="43411086" ref="portfolio"/>
+    <file name="davidoff cool water mtv flyer4.png" crc="4079115588" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chupa chups5.png" crc="4046292375" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cc3.png" crc="108498619" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4 summary sheets born originals5.png" crc="4211116569" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4 toe showcard born originals3.png" crc="4180728320" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cubes born originals3.png" crc="4251937542" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="victory league pos material5.png" crc="534474070" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="victory league pos material6.png" crc="534474070" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cool water mtv flyer5.png" crc="37200742" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="davidoff cool water mtv flyer6.png" crc="37200742" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chupa chups6.png" crc="4054274334" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="a4 summary sheets born originals6.png" crc="17687294" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="carousel_ads_small-u39770-fr.png" crc="18250334" ref="portfolio"/>
+    <file name="polaroid_print.png" crc="152393705" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_print_pouring.png" crc="116946332" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pebody logo.png" crc="449659468" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pasted svg 19815x138_poster_.png" crc="330309553" ref="portfolio"/>
+    <file name="polaroid_web_world.png" crc="4103360366" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="polaroid_web_world_arrows.png" crc="466804415" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas-ppt-intro_for-website_master2.jpg" crc="491269184" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="adidas-ppt-intro_for-website_master3.jpg" crc="491269184" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="playboy digital fb campaign2.png" crc="466499395" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="crown_for website_master2.jpg" crc="4278445647" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="asos webpage_master2.png" crc="3957519114" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_c-master.css" crc="4136262489" ref="tablet>portfolio"/>
+      <file name="master_b-master.css" crc="186303432" ref="tablet>about-me"/>
+      <file name="index.css" crc="3764044981" ref="tablet>index"/>
+      <file name="about-me.css" crc="490899238" ref="tablet>about-me"/>
+      <file name="portfolio.css" crc="4224134867" ref="tablet>portfolio"/>
+    </folder>
+    <file name="index.html" crc="415898100" seo="true" mt="1482333029048" redirect="true"/>
+    <file name="about-me.html" crc="3835099251" seo="true" mt="1482333095836" redirect="true"/>
+    <file name="portfolio.html" crc="272722248" seo="true" mt="1482332866493" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_b-master.css" crc="3889960711" ref="phone>about-me"/>
+      <file name="master_c-master.css" crc="467971161" ref="phone>portfolio"/>
+      <file name="portfolio.css" crc="97466407" ref="phone>portfolio"/>
+      <file name="index.css" crc="3873925170" ref="phone>index"/>
+      <file name="about-me.css" crc="115295679" ref="phone>about-me"/>
+    </folder>
+    <file name="index.html" crc="3929858139" seo="true" mt="1482332276261" redirect="true"/>
+    <file name="about-me.html" crc="19749057" seo="true" mt="1482333095845" redirect="true"/>
+    <file name="portfolio.html" crc="3990480445" seo="true" mt="1482332613862" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3991048834" seo="true" mt="1504429790394" redirect="true"/>
+  <file name="about-me.html" crc="405040279" seo="true" mt="1482333774870" redirect="true"/>
+  <file name="portfolio.html" crc="154720636" seo="true" mt="1482332644181" redirect="true"/>
+</manifest>
