@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x" timestamp="1504554638159">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x" timestamp="1517658171182">
   <folder name="css">
     <file name="site_global.css" crc="3905737304"/>
     <file name="master_c-master.css" crc="533198513" ref="portfolio"/>
-    <file name="master_b-master.css" crc="164464027" ref="about-me"/>
-    <file name="about-me.css" crc="498543005" ref="about-me"/>
+    <file name="master_b-master.css" crc="3962376112" ref="about-me"/>
+    <file name="about-me.css" crc="229156683" ref="about-me"/>
     <file name="portfolio.css" crc="4266181149" ref="portfolio"/>
     <file name="index.css" crc="4140080379" ref="index"/>
   </folder>
@@ -57,19 +57,19 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 94556x22_poster_.png" crc="259298907" ref="phone>index"/>
-    <file name="b-master-favicon.ico" crc="241736563" ref="phone>about-me"/>
+    <file name="b-master-favicon.ico" crc="241736563" ref="phone>about-me:tablet>about-me"/>
     <file name="small_k_logo_at_top_of_page.svg" crc="3784800773" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="small_k_logo_at_top_of_page_poster_.png" crc="406896107" ref="phone>about-me"/>
+    <file name="small_k_logo_at_top_of_page_poster_.png" crc="423312707" ref="phone>about-me:tablet>about-me"/>
     <file name="pasted-svg-35542x35.svg" crc="372906252" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="pasted svg 35542x35_poster_.png" crc="3970642150" ref="phone>about-me"/>
+    <file name="pasted svg 35542x35_poster_.png" crc="3970642150" ref="phone>about-me:tablet>about-me"/>
     <file name="pasted-svg-1211626x904.svg" crc="12615302" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="pasted svg 1211626x904_poster_.png" crc="4028454034" ref="phone>about-me"/>
+    <file name="pasted svg 1211626x904_poster_.png" crc="485727181" ref="phone>about-me:tablet>about-me"/>
     <file name="bluedripping_phone.svg" crc="317936499" seo="true" ref="phone>about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -77,14 +77,14 @@
     <file name="laptop.svg" crc="268793978" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="laptop_poster_.png" crc="384120270" ref="phone>about-me"/>
+    <file name="laptop_poster_.png" crc="4008975198" ref="phone>about-me:tablet>about-me"/>
     <file name="macbook-screen-saver-logo.gif" crc="67913851" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="laptop_glare.svg" crc="87839066" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="laptop_glare_poster_.png" crc="182199319" ref="phone>about-me"/>
+    <file name="laptop_glare_poster_.png" crc="3986471308" ref="phone>about-me:tablet>about-me"/>
     <file name="bookskills-shelf.png" crc="4150083779" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -820,70 +820,8 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flip01.png" crc="284779152" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -948,70 +886,8 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flip03.png" crc="477061792" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -1076,70 +952,8 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flip05.png" crc="4262781114" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -1204,54 +1018,17 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipw00.png" crc="4169387403" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipw01.png" crc="4051687961" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipw03.png" crc="114726082" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipw03.png" crc="251165940" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipl00.png" crc="3759886164" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -1260,14 +1037,8 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipl03.png" crc="220563362" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
+    <file name="flipl03.png" crc="4220815194" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -1275,29 +1046,16 @@
     <file name="flipm00.png" crc="399737132" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipm01.png" crc="365871696" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipm03.png" crc="242996223" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
+    <file name="flipm03.png" crc="289750175" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipe00.png" crc="58123374" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -1314,22 +1072,8 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipe03.png" crc="399279688" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
+    <file name="flipe03.png" crc="4173717663" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -1341,36 +1085,24 @@
     <file name="flipo00.png" crc="4257332808" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipo01.png" crc="3798897703" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipo03.png" crc="3788321864" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
+    <file name="flipo03.png" crc="3833107331" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipc00.png" crc="382543260" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipc01.png" crc="4181684059" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipc03.png" crc="4001356417" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
+    <file name="flipc03.png" crc="297593177" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
@@ -1378,66 +1110,50 @@
     <file name="bluedripping_poster_u44169.png" crc="4151938808" ref="tablet>about-me:about-me"/>
     <file name="flipa00.png" crc="4095849903" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipa01.png" crc="4050128933" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipa03.png" crc="3916969958" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipa03.png" crc="4092954061" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipt00.png" crc="4172635772" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipt01.png" crc="479609067" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipt03.png" crc="222775270" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipt03.png" crc="4238813108" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipu00.png" crc="3903519487" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipu01.png" crc="433862713" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipu03.png" crc="18904855" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipu03.png" crc="228418033" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipb00.png" crc="120776386" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipb01.png" crc="23447488" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipb03.png" crc="21312120" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipb03.png" crc="524350656" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipblank00.png" crc="513163802" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipblank01.png" crc="4124067525" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipblank03.png" crc="3898860853" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipblank03.png" crc="3940409858" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="bluetubeofpaintpouring.png" crc="530829300" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="bg patten-01.svg" crc="4061277840" ref="tablet>about-me:about-me"/>
@@ -1445,99 +1161,72 @@
     <file name="flips00.png" crc="23402700" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flips01.png" crc="357586894" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flips03.png" crc="3814557295" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
+    <file name="flips03.png" crc="354358372" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipi00.png" crc="4206001449" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipi01.png" crc="438800702" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipi03.png" crc="3993208844" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
+    <file name="flipi03.png" crc="3965965702" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipk00.png" crc="3779005220" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipk01.png" crc="452554156" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipk03.png" crc="232414512" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipk03.png" crc="3817295236" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="greendripping.svg" crc="411844560" ref="tablet>about-me:about-me"/>
     <file name="greendripping_poster_u44237.png" crc="164336451" ref="tablet>about-me:about-me"/>
     <file name="flipr00.png" crc="465079614" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipr01.png" crc="3955164059" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipr03.png" crc="4006666068" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipr03.png" crc="229581010" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipp00.png" crc="3825633609" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipp01.png" crc="528930439" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipp03.png" crc="3796442000" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipp03.png" crc="107092680" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipx00.png" crc="4219037924" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipx01.png" crc="4067042468" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipx03.png" crc="4117628615" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipx03.png" crc="392498952" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipn00.png" crc="4096333667" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="flipn01.png" crc="10785764" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
-    <file name="flipn03.png" crc="3886744022" seo="true" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
+    <file name="flipn03.png" crc="4183309533" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="iphone---ipad405x396.png" crc="304054913" seo="true" ref="tablet>about-me">
@@ -1550,7 +1239,6 @@
     <file name="mac support-u44274-fr.jpg" crc="3818393886" ref="tablet>about-me"/>
     <file name="packaging-u44276-fr.jpg" crc="3812574938" ref="tablet>about-me"/>
     <file name="greentubeofpaintpouring.png" crc="4193825620" ref="tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="pasted svg 124084x152_poster_.png" crc="439986768" ref="tablet>about-me"/>
@@ -1955,13 +1643,13 @@
   <folder name="tablet">
     <folder name="css">
       <file name="master_c-master.css" crc="373437470" ref="tablet>portfolio"/>
-      <file name="master_b-master.css" crc="129992857" ref="tablet>about-me"/>
+      <file name="master_b-master.css" crc="3797877426" ref="tablet>about-me"/>
       <file name="index.css" crc="206055409" ref="tablet>index"/>
-      <file name="about-me.css" crc="3777484267" ref="tablet>about-me"/>
+      <file name="about-me.css" crc="242090786" ref="tablet>about-me"/>
       <file name="portfolio.css" crc="280124654" ref="tablet>portfolio"/>
     </folder>
     <file name="index.html" crc="283713166" seo="true" mt="1482333029048" redirect="true"/>
-    <file name="about-me.html" crc="411151515" seo="true" mt="1482333095836" redirect="true"/>
+    <file name="about-me.html" crc="385384606" seo="true" mt="1517658095327" redirect="true"/>
     <file name="portfolio.html" crc="291541245" seo="true" mt="1482332866493" redirect="true"/>
   </folder>
   <folder name="phone">
@@ -1977,6 +1665,6 @@
     <file name="portfolio.html" crc="111230960" seo="true" mt="1482332613862" redirect="true"/>
   </folder>
   <file name="index.html" crc="3842410289" seo="true" mt="1504429790394" redirect="true"/>
-  <file name="about-me.html" crc="320372733" seo="true" mt="1482333774870" redirect="true"/>
+  <file name="about-me.html" crc="325430339" seo="true" mt="1517657271675" redirect="true"/>
   <file name="portfolio.html" crc="492654764" seo="true" mt="1482332644181" redirect="true"/>
 </manifest>
