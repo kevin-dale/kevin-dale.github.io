@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.Kevin-Dale.co.uk/index.html</loc>
-    <lastmod>2017-09-03</lastmod>
+    <lastmod>2016-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.Kevin-Dale.co.uk/phone/index.html"/>
@@ -243,10 +243,64 @@
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/iphone---ipad.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipw03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipl03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipm03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipe03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipo03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipc03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipa03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipt03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipu03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipb03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipblank03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flips03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipi03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipk03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipr03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipp03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipx03_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/flipn03_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.Kevin-Dale.co.uk/portfolio.html</loc>
-    <lastmod>2016-12-21</lastmod>
+    <lastmod>2018-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.Kevin-Dale.co.uk/phone/portfolio.html"/>
@@ -271,6 +325,18 @@
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/pasted-svg-340621x94.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beyonce%20pulse%20boots%20tod%20units3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/katy%20perry%20killer%20queen_unit3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20a-site_v113.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/lady%20gaga%20a%20site3.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/adidas-xmas-animation.gif</image:loc>
@@ -321,22 +387,34 @@
       <image:loc>http://www.Kevin-Dale.co.uk/images/st-george-s-london-house-brochure.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/adidas-ppt-intro_for-website.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/playboy-digital-fb-campaign.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/crown_for-website.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/asos-webpage.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/lightbulb_off.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/lightbulb_on.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20homme%20a%20site3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20homme%20boots%20tod%20a%20site3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/climacool%20tray%20hotspot%20with%20sensations3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/rimmel%20phone%20box%20concept3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/victory%20league%20pos%20material2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/davidoff%20cool%20water%20mtv%20flyer2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/chupa%20chups3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/a4%20summary%20sheets%20born%20originals3.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/st%20geotge-s%20brochures2.png</image:loc>
@@ -351,19 +429,7 @@
       <image:loc>http://www.Kevin-Dale.co.uk/images/beyonce%20pulse%20fsu3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/beyonce%20pulse%20boots%20tod%20units6.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20homme%20boots%20tod%20a%20site4.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20homme%20sd%20display3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20homme%20a%20site5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/katy%20perry%20killer%20queen_unit6.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/katy%20perry%20killer%20queen%20cutout3.png</image:loc>
@@ -373,9 +439,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/katy%20perry%20killer%20queen_cubes3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20a-site_v116.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20ctu_national3.png</image:loc>
@@ -390,9 +453,6 @@
       <image:loc>http://www.Kevin-Dale.co.uk/images/lady%20gaga%20harrods%20unit3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/lady%20gaga%20a%20site6.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/lady%20gaga%20cubes3.png</image:loc>
     </image:image>
     <image:image>
@@ -400,9 +460,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/climacool%20fsdu%20with%20sensations3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/climacool%20tray%20hotspot%20with%20sensations5.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/adidas%20dump%20bin3.png</image:loc>
@@ -414,16 +471,10 @@
       <image:loc>http://www.Kevin-Dale.co.uk/images/rita%20ora%20window%20display3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/rimmel%20phone%20box%20concept5.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/rita1.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/rita2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/victory%20league%20pos%20material4.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/davidoff-cw-mtv-logo-02.svg</image:loc>
@@ -432,16 +483,7 @@
       <image:loc>http://www.Kevin-Dale.co.uk/images/davidoff-cw-mtv-logo-01.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/davidoff%20cool%20water%20mtv%20flyer4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/chupa%20chups5.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/cc3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.Kevin-Dale.co.uk/images/a4%20summary%20sheets%20born%20originals5.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/a4%20toe%20showcard%20born%20originals3.png</image:loc>
@@ -451,6 +493,90 @@
     </image:image>
     <image:image>
       <image:loc>http://www.Kevin-Dale.co.uk/images/pebody%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beyonce%20pulse%20a%20site_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beyonce%20pulse%20fsu_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20homme%20boots%20tod%20a%20site_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20homme%20sd%20display_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/katy%20perry%20killer%20queen%20cutout_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/katy%20perry%20killer%20queen_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/katy%20perry%20killer%20queen_cubes_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20ctu_national_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20ctu%20sd_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/beckham%20cubes_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/lady%20gaga%20harrods%20unit_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/lady%20gaga%20cubes_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/adidas%20zidane%20photo%20wall_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/climacool%20fsdu%20with%20sensations_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/climacool%20tray%20hotspot%20with%20sensations_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/adidas%20dump%20bin_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/rita3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/rita%20ora%20window%20display_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/rimmel%20phone%20box%20concept_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/rita1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/rita2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/davidoff%20cool%20water%20mtv%20flyer_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/cc_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/a4%20summary%20sheets%20born%20originals_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/a4%20toe%20showcard%20born%20originals_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/cubes%20born%20originals_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/pebody%20logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.Kevin-Dale.co.uk/images/st%20geotge-s%20brochures_2x2.png</image:loc>
     </image:image>
   </url>
 </urlset>
