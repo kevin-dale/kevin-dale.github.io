@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1517682176272">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1517683410510">
   <folder name="css">
     <file name="site_global.css" crc="3905737304"/>
     <file name="master_c-master.css" crc="4182598286" ref="portfolio"/>
     <file name="master_b-master.css" crc="3962376112" ref="about-me"/>
-    <file name="about-me.css" crc="3897203656" ref="about-me"/>
+    <file name="about-me.css" crc="71867559" ref="about-me"/>
     <file name="portfolio.css" crc="3965661984" ref="portfolio"/>
     <file name="index.css" crc="279428982" ref="index"/>
   </folder>
@@ -46,9 +46,8 @@
     <file name="a-master-favicon.ico" crc="3957585725" ref="phone>index"/>
     <file name="pasted-svg-94556x22.svg" crc="177614330" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 94556x22_poster_.png" crc="4032614873" ref="phone>index:tablet>index"/>
+    <file name="pasted svg 94556x22_poster_.png" crc="4032614873" ref="phone>index:tablet>index:index"/>
     <file name="b-master-favicon.ico" crc="3957585725" ref="phone>about-me"/>
     <file name="small_k_logo_at_top_of_page.svg" crc="3784800773" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
@@ -65,10 +64,6 @@
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="pasted svg 1211626x904_poster_.png" crc="4028454034" ref="phone>about-me"/>
-    <file name="bluedripping_phone.svg" crc="317936499" seo="true" ref="phone>about-me">
-      <caption webpage="about-me" alt=""/>
-    </file>
-    <file name="bluedripping_phone_poster_.png" crc="4009608016" ref="phone>about-me"/>
     <file name="laptop.svg" crc="268793978" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -92,10 +87,6 @@
     <file name="bookskills-right-books.png" crc="254455357" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="greendripping_phone.svg" crc="3926425335" seo="true" ref="phone>about-me">
-      <caption webpage="about-me" alt=""/>
-    </file>
-    <file name="greendripping_phone_poster_.png" crc="316924064" ref="phone>about-me"/>
     <file name="iphone---ipad352x345.png" crc="214176451" seo="true" ref="phone>about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -131,7 +122,6 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="phone hover-04.svg" crc="3897371089" ref="phone>about-me:tablet>about-me:about-me"/>
     <file name="phone hover-04_poster_u20973.png" crc="4190610606" ref="phone>about-me:tablet>about-me:about-me"/>
@@ -145,9 +135,9 @@
     <file name="mail hover-02_poster_u20935.png" crc="301562854" ref="phone>about-me:tablet>about-me:about-me"/>
     <file name="mail active-02.svg" crc="3895418584" ref="phone>about-me:tablet>about-me:about-me"/>
     <file name="mail active-02_poster_u20961.png" crc="424962864" ref="phone>about-me:tablet>about-me:about-me"/>
-    <file name="sms hover-03.svg" crc="4085184889" ref="phone>about-me:tablet>about-me:about-me"/>
-    <file name="sms active-03.svg" crc="207934130" ref="phone>about-me:tablet>about-me:about-me"/>
-    <file name="sms active-03_poster_u20985.png" crc="3816648839" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="sms hover-03.svg" crc="4085184889" ref="phone>about-me:tablet>about-me"/>
+    <file name="sms active-03.svg" crc="207934130" ref="phone>about-me:tablet>about-me"/>
+    <file name="sms active-03_poster_u20985.png" crc="3816648839" ref="phone>about-me:tablet>about-me"/>
     <file name="c-master-favicon.ico" crc="3957585725" ref="phone>portfolio"/>
     <file name="iphone header banner_1.png" crc="3887401267" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -508,7 +498,7 @@
     <file name="iphone header banner_7.png" crc="473277082" seo="true" ref="phone>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="opening-page-favicon.ico" crc="3957585725" ref="tablet>index"/>
+    <file name="opening-page-favicon.ico" crc="3957585725" ref="tablet>index:index"/>
     <file name="k_logo_sliced_01.png" crc="3985351832" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
     </file>
@@ -811,10 +801,8 @@
     </file>
     <file name="k_logo_sliced-rollover-333.png" crc="44417639" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="k_logo_sliced-active-333.png" crc="264309974" ref="tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="flip00.png" crc="3932327025" seo="true" ref="tablet>about-me:about-me">
@@ -2086,15 +2074,25 @@
     <file name="playboy digital fb campaign-u43020-fr_2x.png" crc="28241469" ref="portfolio"/>
     <file name="crown_for website_master-u43019-fr_2x.jpg" crc="381053410" ref="portfolio"/>
     <file name="asos webpage_master-u43038-fr_2x.png" crc="4067810116" ref="portfolio"/>
-    <file name="sms hover-03_poster_u58484.png" crc="105408586" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="sms hover-03_poster_u58484.png" crc="105408586" ref="phone>about-me:tablet>about-me"/>
     <file name="lnstagram hover.svg" crc="4015688092" ref="phone>about-me:tablet>about-me:about-me"/>
     <file name="lnstagram hover_poster_u58476.png" crc="247054049" ref="phone>about-me:tablet>about-me:about-me"/>
-    <file name="lnstagram active.svg" crc="63419285" ref="phone>about-me:tablet>about-me:about-me"/>
-    <file name="lnstagram active_poster_u58492.png" crc="233939867" ref="phone>about-me:tablet>about-me:about-me"/>
+    <file name="lnstagram active.svg" crc="63419285" ref="phone>about-me:tablet>about-me"/>
+    <file name="lnstagram active_poster_u58492.png" crc="233939867" ref="phone>about-me:tablet>about-me"/>
     <file name="new bluedrip-01.svg" crc="54590935" ref="tablet>about-me:about-me"/>
     <file name="new bluedrip-01_poster_u58395.png" crc="129428325" ref="tablet>about-me:about-me"/>
     <file name="new greendrip-01.svg" crc="497707735" ref="tablet>about-me:about-me"/>
     <file name="new greendrip-01_poster_u58427.png" crc="3850351685" ref="tablet>about-me:about-me"/>
+    <file name="new_bluedrip_phone-01.svg" crc="4061509126" seo="true" ref="phone>about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="new_bluedrip_phone-01_poster_.png" crc="3916946522" ref="phone>about-me"/>
+    <file name="new_greendrip_phone-01.svg" crc="4282664019" seo="true" ref="phone>about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="new_greendrip_phone-01_poster_.png" crc="345766546" ref="phone>about-me"/>
+    <file name="lnstagram active-desktop icon-green-05.svg" crc="3911940915" ref="about-me"/>
+    <file name="lnstagram active-desktop icon-green-05_poster_u58919.png" crc="4129751368" ref="about-me"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -2106,7 +2104,7 @@
     </folder>
     <file name="index.html" crc="299076278" seo="true" mt="1517678583531" redirect="true"/>
     <file name="about-me.html" crc="4066218790" seo="true" mt="1517680607678" redirect="true"/>
-    <file name="portfolio.html" crc="187945034" seo="true" mt="1517682123059" redirect="true"/>
+    <file name="portfolio.html" crc="187945034" seo="true" mt="1517683356516" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -2114,13 +2112,13 @@
       <file name="master_b-master.css" crc="3889960711" ref="phone>about-me"/>
       <file name="portfolio.css" crc="3881886462" ref="phone>portfolio"/>
       <file name="index.css" crc="178108815" ref="phone>index"/>
-      <file name="about-me.css" crc="74068510" ref="phone>about-me"/>
+      <file name="about-me.css" crc="319071957" ref="phone>about-me"/>
     </folder>
     <file name="index.html" crc="380574125" seo="true" mt="1517658527403" redirect="true"/>
-    <file name="about-me.html" crc="12422397" seo="true" mt="1517682014622" redirect="true"/>
-    <file name="portfolio.html" crc="499415850" seo="true" mt="1517682119303" redirect="true"/>
+    <file name="about-me.html" crc="4023177720" seo="true" mt="1517683059671" redirect="true"/>
+    <file name="portfolio.html" crc="499415850" seo="true" mt="1517683352763" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4290312468" seo="true" mt="1517677172136" redirect="true"/>
-  <file name="about-me.html" crc="203571340" seo="true" mt="1517682040446" redirect="true"/>
-  <file name="portfolio.html" crc="485166759" seo="true" mt="1517682117805" redirect="true"/>
+  <file name="index.html" crc="4290312468" seo="true" mt="1517683272203" redirect="true"/>
+  <file name="about-me.html" crc="4060984879" seo="true" mt="1517683287891" redirect="true"/>
+  <file name="portfolio.html" crc="485166759" seo="true" mt="1517683351388" redirect="true"/>
 </manifest>
