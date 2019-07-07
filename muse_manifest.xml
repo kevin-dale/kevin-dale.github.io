@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1546770069394">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1562499307627">
   <folder name="css">
     <file name="site_global.css" crc="3905737304"/>
-    <file name="master_c-master.css" crc="4182598286" ref="portfolio"/>
-    <file name="master_b-master.css" crc="3962376112" ref="about-me"/>
-    <file name="portfolio.css" crc="4288410761" ref="portfolio"/>
-    <file name="about-me.css" crc="320882213" ref="about-me"/>
+    <file name="master_c-master.css" crc="3787068591" ref="portfolio"/>
+    <file name="master_b-master.css" crc="87700181" ref="about-me"/>
+    <file name="portfolio.css" crc="4171426191" ref="portfolio"/>
+    <file name="about-me.css" crc="482904332" ref="about-me"/>
     <file name="index.css" crc="57095434" ref="index"/>
   </folder>
   <folder name="assets">
@@ -99,10 +99,10 @@
     <file name="bookskills-shelf354x93_2x.png" crc="4150083779" seo="true" ref="phone>about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="bookskills-left-books171x113.png" crc="3904841691" seo="true" ref="phone>about-me">
+    <file name="bookskills-left-books171x113.png" crc="4079442579" seo="true" ref="phone>about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="bookskills-left-books171x113_2x.png" crc="3951662353" seo="true" ref="phone>about-me">
+    <file name="bookskills-left-books171x113_2x.png" crc="373633721" seo="true" ref="phone>about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="bookskills-right-books128x87.png" crc="4020995467" seo="true" ref="phone>about-me">
@@ -1997,7 +1997,7 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="bookskills-left-books.png" crc="4251181720" seo="true" ref="tablet>about-me:about-me">
+    <file name="bookskills-left-books.png" crc="59590235" seo="true" ref="tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
@@ -2537,29 +2537,29 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_c-master.css" crc="4039680033" ref="tablet>portfolio"/>
-      <file name="master_b-master.css" crc="3797877426" ref="tablet>about-me"/>
-      <file name="portfolio.css" crc="184695625" ref="tablet>portfolio"/>
+      <file name="master_c-master.css" crc="3896497664" ref="tablet>portfolio"/>
+      <file name="master_b-master.css" crc="189284311" ref="tablet>about-me"/>
+      <file name="portfolio.css" crc="4102904686" ref="tablet>portfolio"/>
       <file name="index.css" crc="232326820" ref="tablet>index"/>
-      <file name="about-me.css" crc="230349103" ref="tablet>about-me"/>
+      <file name="about-me.css" crc="342382183" ref="tablet>about-me"/>
     </folder>
     <file name="index.html" crc="422464698" seo="true" mt="1517678583531" redirect="true"/>
-    <file name="about-me.html" crc="3810726349" seo="true" mt="1546769733073" redirect="true"/>
-    <file name="portfolio.html" crc="4078465851" seo="true" mt="1546770018439" redirect="true"/>
+    <file name="about-me.html" crc="494383944" seo="true" mt="1562499166477" redirect="true"/>
+    <file name="portfolio.html" crc="4227986800" seo="true" mt="1562499259456" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_c-master.css" crc="315739007" ref="phone>portfolio"/>
+      <file name="master_c-master.css" crc="467971161" ref="phone>portfolio"/>
       <file name="master_b-master.css" crc="3889960711" ref="phone>about-me"/>
-      <file name="about-me.css" crc="449145260" ref="phone>about-me"/>
-      <file name="portfolio.css" crc="3878809517" ref="phone>portfolio"/>
+      <file name="about-me.css" crc="3969112767" ref="phone>about-me"/>
+      <file name="portfolio.css" crc="4216416745" ref="phone>portfolio"/>
       <file name="index.css" crc="484662014" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="77670866" seo="true" mt="1517658527403" redirect="true"/>
-    <file name="about-me.html" crc="518912281" seo="true" mt="1546769951847" redirect="true"/>
-    <file name="portfolio.html" crc="194320186" seo="true" mt="1546770014145" redirect="true"/>
+    <file name="about-me.html" crc="3780220207" seo="true" mt="1562499214852" redirect="true"/>
+    <file name="portfolio.html" crc="381175666" seo="true" mt="1562499255643" redirect="true"/>
   </folder>
   <file name="index.html" crc="213207705" seo="true" mt="1517683272203" redirect="true"/>
-  <file name="about-me.html" crc="412214021" seo="true" mt="1546769677403" redirect="true"/>
-  <file name="portfolio.html" crc="3887873041" seo="true" mt="1546770012606" redirect="true"/>
+  <file name="about-me.html" crc="3826065820" seo="true" mt="1562499099497" redirect="true"/>
+  <file name="portfolio.html" crc="187228753" seo="true" mt="1562499254188" redirect="true"/>
 </manifest>
