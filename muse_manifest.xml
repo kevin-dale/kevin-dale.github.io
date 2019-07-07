@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1562499995488">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1562500281823">
   <folder name="css">
     <file name="site_global.css" crc="3905737304"/>
     <file name="master_c-master.css" crc="3787068591" ref="portfolio"/>
@@ -2098,7 +2098,7 @@
     <file name="lady gaga cubes_2x2.png" crc="514121254" seo="true" ref="tablet>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="pasted svg 111473x75_poster_.png" crc="440522654" ref="tablet>portfolio"/>
+    <file name="pasted svg 111473x75_poster_.png" crc="4266930420" ref="phone>portfolio"/>
     <file name="adidas zidane photo wall2.png" crc="3972159014" seo="true" ref="tablet>portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -2487,7 +2487,7 @@
     <file name="st geotge-s brochures_2x2.png" crc="4227694902" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="pasted svg 19815x138_poster_.png" crc="330309553" ref="portfolio"/>
+    <file name="pasted svg 19815x138_poster_.png" crc="11243037" ref="phone>portfolio"/>
     <file name="polaroid_book icon_closed.png" crc="4011303214" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
@@ -2507,6 +2507,7 @@
     <file name="playboy digital fb campaign-u43020-fr_2x.png" crc="28241469" ref="portfolio"/>
     <file name="crown_for website_master-u43019-fr_2x.jpg" crc="381053410" ref="portfolio"/>
     <file name="asos webpage_master-u43038-fr_2x.png" crc="4067810116" ref="portfolio"/>
+    <file name="pasted svg 340621x94_poster_.png" crc="273299513" ref="phone>portfolio"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -2518,21 +2519,21 @@
     </folder>
     <file name="index.html" crc="422464698" seo="true" mt="1517678583531" redirect="true"/>
     <file name="about-me.html" crc="494383944" seo="true" mt="1562499166477" redirect="true"/>
-    <file name="portfolio.html" crc="4227986800" seo="true" mt="1562499959057" redirect="true"/>
+    <file name="portfolio.html" crc="4189349080" seo="true" mt="1562500248084" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_c-master.css" crc="467971161" ref="phone>portfolio"/>
+      <file name="master_c-master.css" crc="3999316636" ref="phone>portfolio"/>
       <file name="master_b-master.css" crc="361555505" ref="phone>about-me"/>
       <file name="about-me.css" crc="3786618419" ref="phone>about-me"/>
-      <file name="portfolio.css" crc="4216416745" ref="phone>portfolio"/>
+      <file name="portfolio.css" crc="4006951127" ref="phone>portfolio"/>
       <file name="index.css" crc="484662014" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="77670866" seo="true" mt="1517658527403" redirect="true"/>
     <file name="about-me.html" crc="531399530" seo="true" mt="1562499912860" redirect="true"/>
-    <file name="portfolio.html" crc="381175666" seo="true" mt="1562499954792" redirect="true"/>
+    <file name="portfolio.html" crc="3770568907" seo="true" mt="1562500244343" redirect="true"/>
   </folder>
   <file name="index.html" crc="213207705" seo="true" mt="1517683272203" redirect="true"/>
   <file name="about-me.html" crc="3826065820" seo="true" mt="1562499099497" redirect="true"/>
-  <file name="portfolio.html" crc="187228753" seo="true" mt="1562499953419" redirect="true"/>
+  <file name="portfolio.html" crc="84752251" seo="true" mt="1562500243006" redirect="true"/>
 </manifest>
