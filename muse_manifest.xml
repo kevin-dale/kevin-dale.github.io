@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1562500495211">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1562500742094">
   <folder name="css">
     <file name="site_global.css" crc="3905737304"/>
     <file name="master_c-master.css" crc="3787068591" ref="portfolio"/>
@@ -2519,21 +2519,21 @@
     </folder>
     <file name="index.html" crc="422464698" seo="true" mt="1517678583531" redirect="true"/>
     <file name="about-me.html" crc="494383944" seo="true" mt="1562499166477" redirect="true"/>
-    <file name="portfolio.html" crc="4189349080" seo="true" mt="1562500461150" redirect="true"/>
+    <file name="portfolio.html" crc="4189349080" seo="true" mt="1562500708113" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_c-master.css" crc="3999316636" ref="phone>portfolio"/>
       <file name="master_b-master.css" crc="361555505" ref="phone>about-me"/>
       <file name="about-me.css" crc="3786618419" ref="phone>about-me"/>
-      <file name="portfolio.css" crc="4145241632" ref="phone>portfolio"/>
+      <file name="portfolio.css" crc="3785043928" ref="phone>portfolio"/>
       <file name="index.css" crc="484662014" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="77670866" seo="true" mt="1517658527403" redirect="true"/>
     <file name="about-me.html" crc="531399530" seo="true" mt="1562499912860" redirect="true"/>
-    <file name="portfolio.html" crc="3768627512" seo="true" mt="1562500457475" redirect="true"/>
+    <file name="portfolio.html" crc="347549936" seo="true" mt="1562500704399" redirect="true"/>
   </folder>
   <file name="index.html" crc="213207705" seo="true" mt="1517683272203" redirect="true"/>
   <file name="about-me.html" crc="3826065820" seo="true" mt="1562499099497" redirect="true"/>
-  <file name="portfolio.html" crc="84752251" seo="true" mt="1562500456143" redirect="true"/>
+  <file name="portfolio.html" crc="84752251" seo="true" mt="1562500702945" redirect="true"/>
 </manifest>
