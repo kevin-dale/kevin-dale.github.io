@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1562499307627">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.Kevin-Dale.co.uk" resolutions="1x,2x" timestamp="1562499995488">
   <folder name="css">
     <file name="site_global.css" crc="3905737304"/>
     <file name="master_c-master.css" crc="3787068591" ref="portfolio"/>
@@ -56,19 +56,13 @@
     <file name="b-master-favicon.ico" crc="3957585725" ref="phone>about-me"/>
     <file name="small_k_logo_at_top_of_page.svg" crc="3784800773" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="small_k_logo_at_top_of_page_poster_.png" crc="406896107" ref="phone>about-me"/>
     <file name="pasted-svg-35542x35.svg" crc="372906252" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="pasted svg 35542x35_poster_.png" crc="3970642150" ref="phone>about-me"/>
     <file name="pasted-svg-1211626x904.svg" crc="12615302" seo="true" ref="phone>about-me:tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="pasted svg 1211626x904_poster_.png" crc="4028454034" ref="phone>about-me"/>
@@ -78,18 +72,12 @@
     <file name="new_bluedrip_phone-01_poster_.png" crc="3916946522" ref="phone>about-me"/>
     <file name="laptop.svg" crc="268793978" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="laptop_poster_.png" crc="384120270" ref="phone>about-me"/>
     <file name="macbook-screen-saver-logo.gif" crc="67913851" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="laptop_glare.svg" crc="87839066" seo="true" ref="phone>about-me:tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="laptop_glare_poster_.png" crc="182199319" ref="phone>about-me"/>
@@ -117,13 +105,9 @@
     <file name="new_greendrip_phone-01_poster_.png" crc="345766546" ref="phone>about-me"/>
     <file name="pasted-svg-66x66.svg" crc="313314489" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="pasted svg 66x66_poster_.png" crc="191939787" ref="phone>about-me"/>
     <file name="pasted-svg-32109x35.svg" crc="114124014" seo="true" ref="phone>about-me:tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="pasted svg 32109x35_poster_.png" crc="4164751672" ref="phone>about-me"/>
@@ -142,20 +126,9 @@
     <file name="packaging-u34911-fr.jpg" crc="3913502843" ref="phone>about-me"/>
     <file name="pasted-svg-124084x152.svg" crc="524970278" seo="true" ref="phone>about-me:tablet>about-me:about-me">
       <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="pasted svg 124084x152_poster_.png" crc="439986768" ref="phone>about-me"/>
     <file name="pasted-svg-60593x60.svg" crc="344703216" seo="true" ref="phone>about-me:tablet>about-me:about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -2545,21 +2518,21 @@
     </folder>
     <file name="index.html" crc="422464698" seo="true" mt="1517678583531" redirect="true"/>
     <file name="about-me.html" crc="494383944" seo="true" mt="1562499166477" redirect="true"/>
-    <file name="portfolio.html" crc="4227986800" seo="true" mt="1562499259456" redirect="true"/>
+    <file name="portfolio.html" crc="4227986800" seo="true" mt="1562499959057" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_c-master.css" crc="467971161" ref="phone>portfolio"/>
-      <file name="master_b-master.css" crc="3889960711" ref="phone>about-me"/>
-      <file name="about-me.css" crc="3969112767" ref="phone>about-me"/>
+      <file name="master_b-master.css" crc="361555505" ref="phone>about-me"/>
+      <file name="about-me.css" crc="3786618419" ref="phone>about-me"/>
       <file name="portfolio.css" crc="4216416745" ref="phone>portfolio"/>
       <file name="index.css" crc="484662014" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="77670866" seo="true" mt="1517658527403" redirect="true"/>
-    <file name="about-me.html" crc="3780220207" seo="true" mt="1562499214852" redirect="true"/>
-    <file name="portfolio.html" crc="381175666" seo="true" mt="1562499255643" redirect="true"/>
+    <file name="about-me.html" crc="531399530" seo="true" mt="1562499912860" redirect="true"/>
+    <file name="portfolio.html" crc="381175666" seo="true" mt="1562499954792" redirect="true"/>
   </folder>
   <file name="index.html" crc="213207705" seo="true" mt="1517683272203" redirect="true"/>
   <file name="about-me.html" crc="3826065820" seo="true" mt="1562499099497" redirect="true"/>
-  <file name="portfolio.html" crc="187228753" seo="true" mt="1562499254188" redirect="true"/>
+  <file name="portfolio.html" crc="187228753" seo="true" mt="1562499953419" redirect="true"/>
 </manifest>
